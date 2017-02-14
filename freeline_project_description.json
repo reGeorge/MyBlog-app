@@ -1,0 +1,115 @@
+{
+    "android_gradle_plugin_version": "2.2.2",
+    "apk_path": "G:\\androidstudiobench\\MyBlog\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "G:\\androidstudiobench\\MyBlog\\app\\build\\freeline",
+    "build_directory": "G:\\androidstudiobench\\MyBlog\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "D:\\Program\\AndroidSDK\\build-tools\\25.0.2",
+    "build_tools_version": "25.0.2",
+    "compile_sdk_directory": "D:\\Program\\AndroidSDK\\platforms\\android-25",
+    "compile_sdk_version": "android-25",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.example.regeorge.myblog",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "G:\\androidstudiobench\\MyBlog",
+    "freeline_gradle_plugin_version": "0.8.5",
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "java_home": "D:\\Program\\JDK",
+    "launcher": "com.example.regeorge.myblog.WebviewActivity",
+    "main_assets_directory": [
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\assets",
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\jniLibs",
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\jni",
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "G:\\androidstudiobench\\MyBlog\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\res",
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\java",
+        "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "G:\\androidstudiobench\\MyBlog\\app"
+        }
+    ],
+    "package": "com.example.regeorge.myblog",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\assets",
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\jniLibs",
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\jni",
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\res",
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\debug\\java",
+                "G:\\androidstudiobench\\MyBlog\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "G:\\androidstudiobench\\MyBlog",
+    "sdk_directory": "D:\\Program\\AndroidSDK",
+    "use_jdk8": true
+}
